@@ -1,0 +1,21 @@
+ {
+    "name": "HindiShayarih",
+    "short_name": "HindiShayarih",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-0nH7gNVLEH4/YPGulqE9msI/AAAAAAAAHf4/Qm9GTtAZAesEoF_Zy0zfGOdTESvGo7PUACLcBGAsYHQ/s192/android-chrome-192x192.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-NsekiuKeV7E/YPGul0xdiVI/AAAAAAAAHf8/djSo0DuWfqMW0tI223wZDfG1C9RXQHfbwCLcBGAsYHQ/s512/android-chrome-512x512.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.hindishayarih.in"
+}
